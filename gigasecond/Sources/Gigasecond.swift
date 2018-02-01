@@ -4,6 +4,9 @@
 
 class Gigasecond {
     let from: String
+    var description: String {
+        
+    }
     
     init(from: String) {
         self.from = from
